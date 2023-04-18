@@ -1,12 +1,16 @@
-ref: crud api for python django
 
-video
+Python Django
+
+# reference video : CRUD api for python django
 https://www.youtube.com/watch?v=OJdFj5hPAKs&t=770s
+
+1 location and Item
+
 
 # add item 
 http://localhost:8000/api/item/ 
 
-# detail 
+# Item detail 
 http://localhost:8000/api/item/1
 
 # parameter for location  
